@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 pyproject.toml
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+terraform/.terraform/terraform.tfstate
+terraform/.terraform/providers/registry.terraform.io/hashicorp/google/4.41.0/darwin_amd64/terraform-provider-google_v4.41.0_x5
